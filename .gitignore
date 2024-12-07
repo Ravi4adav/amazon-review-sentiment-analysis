@@ -1,0 +1,10 @@
+# created by virtualenv automatically
+
+etc/
+Lib/
+Scripts/
+share/
+*.egg-info/
+*.docx
+*.json
+*.cfg

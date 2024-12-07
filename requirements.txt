@@ -1,0 +1,9 @@
+google_auth_oauthlib
+google_api_python_client 
+pandas
+vadersentiment 
+nltk 
+plotly
+streamlit
+
+-e .
